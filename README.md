@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Simple Tic Tac Toe game built using C++
+Simple Tic Tac Toe game built using C++.
 
 ## Demo
 ![tic-tac-toe](https://user-images.githubusercontent.com/63553187/147851773-ebfae6e8-347e-406f-b46d-30a7ba7fc701.gif)
